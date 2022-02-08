@@ -16,4 +16,6 @@
 - ##### Telefone
 - ##### Cidade
 
+<h1 align="center">
 <img src="/ezgif.com-gif-maker.gif" alt="video" />
+</h1>
