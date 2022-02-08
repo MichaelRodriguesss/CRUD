@@ -1,6 +1,6 @@
 # CRUD
 
-## Languages and Tools]
+## Languages and Tools
 ---
 
 - ### HTML
