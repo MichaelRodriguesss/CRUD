@@ -1,7 +1,6 @@
 # CRUD
 
 ## Languages and Tools
----
 
 - ### HTML
 - ### CSS
