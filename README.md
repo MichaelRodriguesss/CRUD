@@ -8,12 +8,11 @@
 
 ---
 
-#### Projeto feito para salvar dados de clientes como:
-- ##### Nome
-- ##### Número
+#### Project made to save customer data as:
+- ##### Name
 - ##### E-mail
-- ##### Telefone
-- ##### Cidade
+- ##### Phone Number
+- ##### City
 
 <h1 align="center">
 <img src="/ezgif.com-gif-maker.gif" alt="video" />
